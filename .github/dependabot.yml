@@ -8,7 +8,11 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    commit-message:
+      prefix: "Chore"
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "weekly"
+    commit-message:
+      prefix: "Chore"
